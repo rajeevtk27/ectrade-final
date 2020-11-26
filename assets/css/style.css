@@ -2252,7 +2252,7 @@ hr {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .header-area .header-bottom {
-        padding: 0px 30px;
+        padding: 0px 0px;
     }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3150,7 +3150,7 @@ hr {
 .services-area {
     margin: 0 85px;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+@media only screen and (min-width: 1200px) and (max-width: 100px) {
     .services-area {
         margin: 0 0px;
     }
