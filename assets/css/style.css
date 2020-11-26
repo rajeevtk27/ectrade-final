@@ -3,7 +3,6 @@
     background: #ffffff;
 }
 .row{margin-left: 0px; margin-right: 0px;}
-
 .gray-bg {
     background: #f5f5f5;
 }
@@ -1765,7 +1764,7 @@ hr {
     padding-top: 200px;
     padding-bottom: 200px;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+@media only screen and (min-width: 1200px) and (max-width: 100%) {
     .section-padding2 {
         padding-top: 200px;
         padding-bottom: 200px;
