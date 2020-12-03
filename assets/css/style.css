@@ -1827,7 +1827,7 @@ hr {
 }
 @media (max-width: 575px) {
     .pb-top {
-        padding-top: 70px;
+        padding-top: 20px;
     }
 }
 .w-padding2 {
